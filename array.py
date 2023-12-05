@@ -26,3 +26,6 @@ print(arr5)
 
 arr4 = np.zeros((2, 4))  # barcha elemtlari 0 ga teng bo'lgan (2, 4)
 print(arr4)
+
+arr7 = np.arange(20) # 0 dan 20 gacha bo'lgan qiymatlarni 1 qadam bilan massivga joylab beradi
+print(arr7)
